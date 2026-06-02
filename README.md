@@ -13,7 +13,7 @@ Program Python berbasis **Object-Oriented Programming (OOP)** untuk mengelola da
 
 | No | Nama   | Tugas                                              | File                         |
 | -- | ------ | -------------------------------------------------- | ---------------------------- |
-| 1  | Hafizh | Membuat Abstract Class Koleksi                     | `bagian1_koleksi.py`         |
+| 1  | Sulthan Hafizh Putra Agung | Membuat Abstract Class Koleksi                     | `bagian1_koleksi.py`         |
 | 2  | Zahra  | Membuat Model Koleksi (Buku, Majalah, Jurnal, DVD) | `bagian2_model_koleksi.py`   |
 | 3  | Adibah | Membuat Repository Penyimpanan Data                | `bagian3_repository.py`      |
 | 4  | Aksya  | Membuat Input Handler                              | `bagian4_input_handler.py`   |
